@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1739632871 source:c:\users\admin\onedrive\desktop\sdl2\maudo.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1739544966 source:c:\users\admin\onedrive\desktop\sdl2\main.cpp
+	<iostream>
+
+1740190543 source:c:\users\admin\onedrive\desktop\sdl2\test.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"test.h"
+
+1740190754 source:c:\users\admin\onedrive\desktop\sdl2\learn.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"test.h"
+
+1740187866 source:c:\users\admin\onedrive\desktop\sdl2\untitled1.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_Image.h>
+	<string>
+
+1740193885 c:\users\admin\onedrive\desktop\sdl2\test.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+
